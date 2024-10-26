@@ -1,4 +1,4 @@
-//Definem como o codigo é executado com basae em condições e loops. ajudam a controlar o fluco do programa, permitindo decisões e repetições baseadas em condições especificas
+//Definem como o codigo é executado com basae em condições e loops. ajudam a controlar o fluxo do programa, permitindo decisões e repetições baseadas em condições especificas
 
 //IF - SE 
 //se uma condição especifica for verdadeira 
@@ -82,7 +82,7 @@ if (alunos < 16){
 }
 */
 
-let idadealuno = 16
+let idadealuno = 14
 if (idadealuno >= 16) {
     console.log('Entrada liberada. Bom filme');    
 }else {
