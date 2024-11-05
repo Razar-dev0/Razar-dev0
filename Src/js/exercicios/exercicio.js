@@ -23,3 +23,4 @@ const paragrafo = document.querySelector('.descricao');
 
 paragrafo.style.fontSize = '3rem';
 console.log(paragrafo);
+
